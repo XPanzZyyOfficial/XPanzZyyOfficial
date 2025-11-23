@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Halo, Selamat Datang Di Halaman Github Saya!</h1>
-<h2 align="center">**Hi 👋, I'm XPanzZyyOfficial**</2>
+<h2 align="center">Hi 👋, I'm XPanzZyyOfficial</2>
 
 **Anda Bisa Memanggil Saya Revan, Saya Adalah Seorang Pengembang Web Dan Develover Bot, Saya Sangat Menyukai Pemrograman, Sekian Perkenalan, Terima kasih**
 
@@ -27,8 +27,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Html-007ACC?style=for-the-badge&logo=HTML&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=whitee"/>
+  <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
