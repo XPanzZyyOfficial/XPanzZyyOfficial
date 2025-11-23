@@ -2,7 +2,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="animated-welcome" width="300"/>
 </p>
 
-<h1 align="center">Halo, Selamat Datang Di Halaman Github Saya!</h1>
+<h2 align="center">Halo, Selamat Datang Di Halaman Github Saya!</h2>
 <h2 align="center">Hi 👋, I'm XPanzZyyOfficial</2>
 
 **Anda Bisa Memanggil Saya Revan, Saya Adalah Seorang Pengembang Web Dan Develover Bot, Saya Sangat Menyukai Pemrograman, Sekian Perkenalan, Terima kasih**
