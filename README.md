@@ -43,7 +43,7 @@ Sekian Perkenalan, Terima kasih**
 <p align="center">
   <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=gnubash&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-  <img src="https://shields.io/badge/Acode-4caf50?style=for-the-badge&logo=Acode&logoColor=green"/>
+<img src="https://img.shields.io/badge/Acode-1FAA59?style=for-the-badge&logo=android&logoColor=white" alt="Acode Badge">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge">
 </p>
 
