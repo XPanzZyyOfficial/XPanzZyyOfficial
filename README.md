@@ -3,9 +3,9 @@
 </p>
 
 <h1 align="center">Halo, Selamat Datang Di Halaman Github Saya!</h1>
-<h2 align="center">Hi 👋, I'm XPanzZyy Official</2>
+<h2 align="center">**Hi 👋, I'm XPanzZyyOfficial**</2>
 
-**Anda Bisa Memanggil Saya Revan, Asal Dari Cianjur, Saya Adalah Seorang Pengembang Web Dan Develover Botz, Saya Sangat Menyukai Pemrograman, Sekian Perkenalan, Terima kasih**
+**Anda Bisa Memanggil Saya Revan, Saya Adalah Seorang Pengembang Web Dan Develover Bot, Saya Sangat Menyukai Pemrograman, Sekian Perkenalan, Terima kasih**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XPanzZyyOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
@@ -16,9 +16,9 @@
 ### 🧩 Tentang Saya
 
 - 🔭 **Proyek Terkini: UserBotz Telegram Dengan Fitur Cerdas Dan Percakapan Natural.**
-- 🌱 **Sedang mengasah: JavaScript, Html, Css Dan NextJs**
+- 🌱 **Sedang mengasah: JavaScript, Html, Css Dan Python**
 - 🤔 **Butuh masukan soal: Tanyakan Saja**
-- 💬 **Bisa tanya soal: JavaScript, PHP, CSS, Bot**
+- 💬 **Bisa tanya soal: JavaScript, Html, CSS**
 - ⚡ **Fun fact: Fokus ngoding berjam-jam, ditemani kopi + anime OST 🎧**
 
 ---
@@ -27,8 +27,8 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Html-007ACC?style=for-the-badge&logo=HTML&logoColor=white"/>
+  <img src="https://img.shields.io/badge/html-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-306998?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
