@@ -5,7 +5,10 @@
 <h2 align="center">Halo, Selamat Datang Di Halaman Github Saya!</h2>
 <h2 align="center">Hi 👋, I'm XPanzZyyOfficial</2>
 
-**Anda Bisa Memanggil Saya Revan, Saya Adalah Seorang Pengembang Web Dan Develover Bot, Saya Sangat Menyukai Pemrograman, Sekian Perkenalan, Terima kasih**
+**Anda Bisa Memanggil Saya Revan
+Saya Adalah Seorang Pengembang Web Dan Develover Bot
+Saya Sangat Menyukai Pemrograman
+Sekian Perkenalan, Terima kasih**
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=XPanzZyyOfficial&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views"/>
