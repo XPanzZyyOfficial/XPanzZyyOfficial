@@ -68,30 +68,6 @@ Sekian Perkenalan, Terima kasih**
 
 ---
 
-### ⚙️ Tech Stack
-
-#### Frontend
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="40"/> 
-  <img src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="40"/>
-</p>
-
-#### Backend & Database
-<p>
-  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/express-109.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/php.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" width="40"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="40"/>
-</p>
-
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -127,12 +103,6 @@ Sekian Perkenalan, Terima kasih**
   </a>
   <a href="https://t.me/XPanzZyyOfficial" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-%23E4405F.svg?style=for-the-badge&logo=Telegram&logoColor=white" alt="Telegram">
-  </a>
-  <a href="https://www.tiktok.com/revanofficial218" target="_blank">
-    <img src="https://img.shields.io/badge/Tiktok-%23E4405F.svg?style=for-the-badge&logo=Tiktok&logoColor=white" alt="Tiktok">
-  </a>
-  <a href="https://www.instagram.com/arevanofficial_" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
   <a href="mailto:SuppXPanzZyyOfficial@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
